@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "typography",
+  "parent": "BL5mKGky",
+  "path": "typography.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "OuXMIEI1",
+  "value": "typography",
+  "values": {
+    "className": "theme.footer_links",
+    "tag": "h6"
+  }
+}

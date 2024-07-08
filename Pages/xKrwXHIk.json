@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "loop",
+  "parent": "SioikT6q",
+  "path": "loop.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "xKrwXHIk",
+  "value": "loop",
+  "values": {
+    "variablename": "item",
+    "indexName": "index",
+    "variable": "casacas",
+    "code": ""
+  }
+}

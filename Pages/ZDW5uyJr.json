@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "image",
+  "parent": "ZVTvPTtr",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ZDW5uyJr",
+  "value": "image",
+  "values": {
+    "path": "img/${item.imagen}",
+    "className": "theme.imagen"
+  }
+}

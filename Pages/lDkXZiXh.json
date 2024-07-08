@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "principal",
+  "parent": "8vn0o49k",
+  "path": "themeSelection.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "lDkXZiXh",
+  "value": "themeSelection",
+  "values": {
+    "theme": "minimum",
+    "useAsset": "uVXWiIrW",
+    "primaryColor": "green"
+  }
+}

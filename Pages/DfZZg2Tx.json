@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "kTHT8Qzy",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "DfZZg2Tx",
+  "value": "text",
+  "values": {
+    "Content": "Añadir al carrito"
+  }
+}

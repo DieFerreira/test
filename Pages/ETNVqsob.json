@@ -1,0 +1,18 @@
+{
+  "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
+  "cascades": false,
+  "name": "typography",
+  "order": 1000,
+  "originalName": "typography",
+  "parent": "BL5mKGky",
+  "path": "typography.tpl",
+  "prevent_delete": false,
+  "renderTag": "(elem) => { return elem.values.tag }",
+  "type": "element",
+  "unique_id": "ETNVqsob",
+  "value": "typography",
+  "values": {
+    "tag": "h6",
+    "className": "theme.footer_links"
+  }
+}

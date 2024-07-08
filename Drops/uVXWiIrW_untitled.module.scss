@@ -1,0 +1,102 @@
+// Asset created by Aptugo
+
+.pages {
+  margin: 20px;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.padre {
+  position: relative;
+  height: 600px;
+  margin-bottom: 30px;
+}
+
+.hijo {
+  position: relative;
+  width: 100%;
+}
+
+.hijo img {
+  width: 100%;
+  display: block;
+  opacity: 0.8;
+  height: 600px;
+}
+
+.hijo2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-align: center;
+}
+
+.loop {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  margin: 20px 150px;
+}
+
+.contenido {
+  background-color: white;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  overflow: hidden;
+  text-align: center;
+  transition: transform 0.3s;
+  padding: 10px;
+}
+
+.contenido:hover {
+  transform: translateY(-10px);
+}
+
+.imageContainer {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+}
+
+.imageContainer img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.precio {
+  font-weight: bold;
+  color: #333;
+  margin: 10px 0;
+}
+
+.footer {
+  width: 100%;
+  background-color: rgb(140, 133, 133);
+  color: rgb(255, 255, 255);
+  padding: 20px 0;
+  text-align: center;
+  bottom: 0;
+}
+
+.footer_links {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}

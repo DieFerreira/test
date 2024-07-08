@@ -1,0 +1,19 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "order": 1000,
+  "parent": "xKrwXHIk",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "renderTag": "a",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "hKbxlAMR",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/camiseta/${item._id}",
+    "className": "theme.link",
+    "tagToUse": "NavLink",
+    "target": "_self"
+  }
+}

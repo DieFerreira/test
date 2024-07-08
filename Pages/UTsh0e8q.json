@@ -1,0 +1,22 @@
+{
+  "backColor": "00FF00",
+  "cascades": false,
+  "color": "FF0000",
+  "docurl": "https://doc.next.aptugo.app/ref/Basic",
+  "double": true,
+  "name": "text",
+  "order": 2,
+  "parent": "QfWbV9u3",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.Content }",
+  "renderTag": "span",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "UTsh0e8q",
+  "value": "text",
+  "values": {
+    "Content": "L",
+    "className": "theme.selected"
+  }
+}

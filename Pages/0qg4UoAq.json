@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "camiseta",
+  "order": 1000,
+  "parent": "GrXEn9Uz",
+  "path": "themeSelection.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "0qg4UoAq",
+  "value": "themeSelection",
+  "values": {
+    "useAsset": "7WwrzLbo"
+  }
+}

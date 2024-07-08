@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "ULrKPqCt",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "4Tmsm69z",
+  "value": "text",
+  "values": {
+    "Content": "Email"
+  }
+}

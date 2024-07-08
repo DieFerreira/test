@@ -1,0 +1,36 @@
+{
+  "_id": "alnvZm1NRZ9SaTcA",
+  "createdAt": 1716392539554,
+  "modifiedAt": 1719422585196,
+  "lastBuild": 1719422585195,
+  "settings": {
+    "name": "tikitaka_final",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "tikitaka_final",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://tikitaka_finallite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/tikitaka_final"
+    },
+    "stagging": {
+      "apiURL": "https://tikitaka_finallite.aptugo.app",
+      "type": "Local",
+      "folder": "tikitaka_final_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://tikitaka_finallite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/tikitaka_final"
+    },
+    "production": {
+      "apiURL": "https://tikitaka_finallite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "tikitaka_final",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://tikitaka_finallite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/tikitaka_final",
+      "variables": "filesFolder:/var/www/wildcards/tuproyecto.aptugo.app/img/"
+    }
+  }
+}

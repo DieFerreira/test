@@ -1,0 +1,17 @@
+{
+  "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
+  "cascades": false,
+  "name": "descripcion",
+  "originalName": "typography",
+  "parent": "JCOMR5iW",
+  "path": "typography.tpl",
+  "prevent_delete": false,
+  "renderTag": "(elem) => { return elem.values.tag }",
+  "type": "element",
+  "unique_id": "TW13Sml7",
+  "value": "typography",
+  "values": {
+    "tag": "h5",
+    "className": "theme.descripcion"
+  }
+}

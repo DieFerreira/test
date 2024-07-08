@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "TW13Sml7",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "JdgUWUfz",
+  "value": "text",
+  "values": {
+    "Content": "{item.descripcion}",
+    "className": "theme.descripcion"
+  }
+}

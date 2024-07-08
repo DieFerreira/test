@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "ETNVqsob",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "X70Jt42g",
+  "value": "text",
+  "values": {
+    "Content": "Telefono"
+  }
+}

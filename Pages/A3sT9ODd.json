@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "TIKITAKA",
+  "parent": "1pV8Axzc",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "A3sT9ODd",
+  "value": "text",
+  "values": {
+    "Content": "TIKITAKA",
+    "className": "theme.titulo"
+  }
+}

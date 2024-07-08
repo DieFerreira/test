@@ -1,0 +1,22 @@
+{
+  "backColor": "00FF00",
+  "cascades": false,
+  "color": "FF0000",
+  "docurl": "https://doc.next.aptugo.app/ref/Basic",
+  "double": true,
+  "name": "precio",
+  "order": 2,
+  "parent": "kMLpXKTS",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.Content }",
+  "renderTag": "span",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "iNly4EH6",
+  "value": "text",
+  "values": {
+    "Content": "60000",
+    "className": "theme.price"
+  }
+}

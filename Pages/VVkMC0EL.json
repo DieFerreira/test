@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "content",
+  "parent": "AwP50fDt",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "VVkMC0EL",
+  "value": "text",
+  "values": {
+    "Content": "Para que viajes al pasado con tus idolos",
+    "className": "theme.parr"
+  }
+}

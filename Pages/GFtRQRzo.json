@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "RrZS1vuu",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "GFtRQRzo",
+  "value": "text",
+  "values": {
+    "Content": "Camiseta Titular Barcelona 1999"
+  }
+}

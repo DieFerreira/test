@@ -1,0 +1,17 @@
+{
+  "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
+  "cascades": false,
+  "name": "Precio",
+  "originalName": "typography",
+  "parent": "JCOMR5iW",
+  "path": "typography.tpl",
+  "prevent_delete": false,
+  "renderTag": "(elem) => { return elem.values.tag }",
+  "type": "element",
+  "unique_id": "ukSeBVww",
+  "value": "typography",
+  "values": {
+    "tag": "h4",
+    "className": "theme.precio"
+  }
+}
